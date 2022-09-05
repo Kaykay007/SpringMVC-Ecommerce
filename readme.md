@@ -5,7 +5,7 @@ Rockerfella is an online E-commerce store where customers can purchase products 
 · Endpoints and view for adding products to a cart
 · Endpoint and view for customer Signup and login
 · Endpoint and view for admin signup and login
-An architectural diagram (UML) showing the User Journey was included showing all the modules all users of the application should be able to interact with.
+An architectural diagram (UML) showing the User Journey was included showing all the modules all users of the application can interact with.
 User Stories
 As a user, you will be able to
 · Signup
