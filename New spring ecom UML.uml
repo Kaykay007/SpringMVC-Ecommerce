@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/lim/IdeaProjects/newspring-ecommerce</OriginalElement>
+  <nodes>
+    <node x="424.640403188002" y="995.7241346229241">com.ecommerce.library.dto.AdminDto</node>
+    <node x="206.2326236080835" y="138.10269755599506">com.ecommerce.library.service.impl.ShoppingCartServiceImpl</node>
+    <node x="1330.2586476086053" y="528.8503492622378">com.ecommerce.customer.CustomerApplication</node>
+    <node x="1514.7313176647367" y="638.4092341009323">com.ecommerce.library.LibraryApplication</node>
+    <node x="1181.3907776153553" y="1039.724134622924">com.ecommerce.admin.config.AdminDetails</node>
+    <node x="1746.7653581074408" y="898.7780796571957">com.ecommerce.library.dto.CategoryDto</node>
+    <node x="1157.5092276067248" y="75.13933717548738">com.ecommerce.library.service.impl.CustomerServiceImpl</node>
+    <node x="-121.96072709636837" y="671.5002920750329">com.ecommerce.admin.controller.ProductController</node>
+    <node x="692.4113504821662" y="995.3511539500494">org.example.Main</node>
+    <node x="756.5764863602287" y="443.76664680340605">com.ecommerce.admin.config.AdminConfiguration</node>
+    <node x="1412.3060023897071" y="883.812087267257">com.ecommerce.customer.controller.CartController</node>
+    <node x="1160.1183365345269" y="836.7540942395716">com.ecommerce.library.model.Category</node>
+    <node x="1777.0071216659387" y="77.93494597509189">com.ecommerce.library.service.impl.CategoryServiceImpl</node>
+    <node x="664.3337058422512" y="612.8186883120956">com.ecommerce.customer.controller.ProductController</node>
+    <node x="562.7893043499877" y="262.4881622907588">com.ecommerce.library.service.ProductService</node>
+    <node x="1741.2498972626975" y="1082.1629209218393">com.ecommerce.library.model.Product</node>
+    <node x="2032.567504744521" y="308.6567581661077">com.ecommerce.admin.AdminApplication</node>
+    <node x="1000.7785507088147" y="531.8743417603027">com.ecommerce.admin.controller.CategoryController</node>
+    <node x="61.57913932615713" y="280.1297920236507">com.ecommerce.library.service.impl.ProductServiceImpl</node>
+    <node x="2213.6198983427535" y="567.6281480460337">com.ecommerce.library.dto.ProductDto</node>
+    <node x="26.753683346597995" y="542.670115053302">com.ecommerce.library.repository.CustomerRepository</node>
+    <node x="1588.3770343186984" y="544.319933341654">com.ecommerce.library.repository.ProductRepository</node>
+    <node x="1836.9601190660233" y="523.7374484062366">com.ecommerce.admin.controller.LoginController</node>
+    <node x="832.9446202624995" y="253.32322911230233">com.ecommerce.library.service.impl.AdminServiceImpl</node>
+    <node x="855.0813152095975" y="763.9384069623693">com.ecommerce.library.model.Customer</node>
+    <node x="1594.2942876628392" y="197.04966703887158">com.ecommerce.customer.CustomerApplicationTests</node>
+    <node x="2038.3870738764854" y="426.1228190460905">com.ecommerce.library.repository.AdminRepository</node>
+    <node x="186.28362899908984" y="448.70871289456994">com.ecommerce.library.LibraryApplicationTests</node>
+    <node x="1171.6998633494936" y="217.83581987985377">com.ecommerce.library.service.AdminService</node>
+    <node x="462.8965172116383" y="367.3502761425727">com.ecommerce.library.repository.ShoppingCartRepository</node>
+    <node x="1522.268048140186" y="31.923863905181832">com.ecommerce.library.service.CategoryService</node>
+    <node x="1138.091462163979" y="645.3008456189501">com.ecommerce.customer.controller.AuthController</node>
+    <node x="364.06772315943" y="536.9328887478575">com.ecommerce.library.repository.CartItemRepository</node>
+    <node x="606.6211433468686" y="784.956431526413">com.ecommerce.library.dto.CustomerDto</node>
+    <node x="705.3807750562561" y="141.69304234929302">com.ecommerce.library.service.ShoppingCartService</node>
+    <node x="1297.7501583379535" y="308.11110082480246">com.ecommerce.customer.config.CustomerServiceConfig</node>
+    <node x="432.640403188002" y="695.9859555354789">com.ecommerce.admin.controller.AdminController</node>
+    <node x="376.9111882333974" y="877.2589489289124">com.ecommerce.library.repository.RoleRepository</node>
+    <node x="1843.8716624315332" y="662.8489417340232">com.ecommerce.library.model.ShoppingCart</node>
+    <node x="2067.3121731149586" y="883.1163929893601">com.ecommerce.library.model.Admin</node>
+    <node x="1749.4779521675885" y="313.22405841282585">com.ecommerce.customer.config.CustomerConfiguration</node>
+    <node x="195.32675491613372" y="762.9265370641319">com.ecommerce.customer.config.CustomerDetails</node>
+    <node x="1496.5574701861094" y="1047.1216274561086">com.ecommerce.library.model.CartItem</node>
+    <node x="870.4467010320828" y="1119.750311213334">com.ecommerce.library.model.Role</node>
+    <node x="1514.9130001650437" y="726.6818902073188">com.ecommerce.customer.controller.HomeController</node>
+    <node x="1143.3114007599283" y="-13.331981202770322">com.ecommerce.library.service.CustomerService</node>
+    <node x="1024.046832501894" y="390.38139811395257">com.ecommerce.admin.AdminApplicationTests</node>
+    <node x="99.930253181544" y="941.2957560724132">com.ecommerce.library.utils.ImageUpload</node>
+    <node x="1662.0081894423638" y="410.02058612888345">com.ecommerce.admin.config.AdminServiceConfig</node>
+    <node x="2277.7427802508173" y="296.79359698491135">com.ecommerce.library.repository.CategoryRepository</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.ecommerce.library.service.impl.CustomerServiceImpl" target="com.ecommerce.library.service.CustomerService" relationship="REALIZATION">
+      <point x="-76.69782684679649" y="-37.5" />
+      <point x="-0.0" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.ProductController" target="com.ecommerce.library.service.CategoryService" relationship="TO_ONE">
+      <point x="2.941577487263203E-4" y="37.5" />
+      <point x="790.334" y="743.0" />
+      <point x="1008.279" y="743.0" />
+      <point x="1008.279" y="620.319" />
+      <point x="1275.0" y="620.319" />
+      <point x="1275.0" y="279.294" />
+      <point x="1576.794" y="279.294" />
+      <point x="-32.474048140185914" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.library.model.CartItem" target="com.ecommerce.library.model.Product" relationship="TO_ONE">
+      <point x="81.5" y="-0.0" />
+      <point x="-87.5" y="-90.04129346573063" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.ShoppingCartServiceImpl" target="com.ecommerce.library.repository.CartItemRepository" relationship="TO_ONE">
+      <point x="91.66389360355481" y="37.5" />
+      <point x="-16.17120594779169" y="-14.0" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.ShoppingCartServiceImpl" target="com.ecommerce.library.repository.ShoppingCartRepository" relationship="TO_ONE">
+      <point x="140.0" y="37.5" />
+      <point x="-85.66389360355481" y="-14.0" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.CartController" target="com.ecommerce.library.service.ShoppingCartService" relationship="TO_ONE">
+      <point x="-0.0" y="48.5" />
+      <point x="1541.3060023897071" y="990.812087267257" />
+      <point x="809.8807750562561" y="990.812087267257" />
+      <point x="-0.0" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.admin.controller.CategoryController" target="com.ecommerce.library.service.CategoryService" relationship="TO_ONE">
+      <point x="126.0" y="-3.4176030271737545E-4" />
+      <point x="1275.0" y="558.374" />
+      <point x="1275.0" y="279.294" />
+      <point x="1576.794" y="279.294" />
+      <point x="-32.474048140185914" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.CustomerServiceImpl" target="com.ecommerce.library.repository.CustomerRepository" relationship="TO_ONE">
+      <point x="-2.276067248203617E-4" y="-37.5" />
+      <point x="1308.509" y="52.0" />
+      <point x="44.079" y="52.0" />
+      <point x="-83.17468334659799" y="-14.0" />
+    </edge>
+    <edge source="com.ecommerce.admin.controller.ProductController" target="com.ecommerce.library.service.CategoryService" relationship="TO_ONE">
+      <point x="125.99972709636836" y="-2.9207503291672765E-4" />
+      <point x="346.568" y="709.0" />
+      <point x="346.568" y="743.0" />
+      <point x="1008.279" y="743.0" />
+      <point x="1008.279" y="620.319" />
+      <point x="1275.0" y="620.319" />
+      <point x="1275.0" y="279.294" />
+      <point x="1576.794" y="279.294" />
+      <point x="-32.474048140185914" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.HomeController" target="com.ecommerce.library.service.CustomerService" relationship="TO_ONE">
+      <point x="-121.50000016504373" y="48.5" />
+      <point x="1522.413" y="852.0" />
+      <point x="1394.806" y="852.0" />
+      <point x="1394.806" y="1212.25" />
+      <point x="-139.461" y="1212.25" />
+      <point x="-139.461" y="0.6680000000000001" />
+      <point x="-88.5" y="-1.8797229677680605E-5" />
+    </edge>
+    <edge source="com.ecommerce.admin.config.AdminServiceConfig" target="com.ecommerce.library.repository.AdminRepository" relationship="TO_ONE">
+      <point x="-1.8944236376228218E-4" y="26.5" />
+      <point x="1792.008" y="482.0" />
+      <point x="2126.887" y="482.0" />
+      <point x="-7.387648520307266E-5" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.ProductServiceImpl" target="com.ecommerce.library.repository.ProductRepository" relationship="TO_ONE">
+      <point x="-0.0" y="37.5" />
+      <point x="202.57913932615713" y="365.1297920236507" />
+      <point x="1682.3770343186984" y="365.1297920236507" />
+      <point x="-0.0" y="-14.0" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.CategoryServiceImpl" target="com.ecommerce.library.repository.CategoryRepository" relationship="TO_ONE">
+      <point x="104.0" y="-0.0" />
+      <point x="2376.2427802508173" y="104.43494597509189" />
+      <point x="-0.0" y="-14.0" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.ProductController" target="com.ecommerce.library.service.ProductService" relationship="TO_ONE">
+      <point x="2.941577487263203E-4" y="-37.4996883120956" />
+      <point x="790.334" y="502.0" />
+      <point x="713.397" y="502.0" />
+      <point x="68.60769565001237" y="13.999837709241206" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.AdminServiceImpl" target="com.ecommerce.library.repository.RoleRepository" relationship="TO_ONE">
+      <point x="130.0" y="-2.291123023496766E-4" />
+      <point x="1125.0" y="290.823" />
+      <point x="1125.0" y="120.603" />
+      <point x="-154.461" y="120.603" />
+      <point x="-154.461" y="891.259" />
+      <point x="-80.5" y="5.107108756874368E-5" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.CartController" target="com.ecommerce.library.service.ProductService" relationship="TO_ONE">
+      <point x="-2.389707105976413E-6" y="-48.5" />
+      <point x="1541.306" y="850.616" />
+      <point x="1793.877" y="850.616" />
+      <point x="1793.877" y="502.0" />
+      <point x="713.397" y="502.0" />
+      <point x="68.60769565001237" y="13.999837709241206" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.HomeController" target="com.ecommerce.library.service.CategoryService" relationship="TO_ONE">
+      <point x="-129.0" y="1.0979268120081542E-4" />
+      <point x="1167.618" y="775.182" />
+      <point x="1167.618" y="743.0" />
+      <point x="1008.279" y="743.0" />
+      <point x="1008.279" y="620.319" />
+      <point x="1275.0" y="620.319" />
+      <point x="1275.0" y="279.294" />
+      <point x="1576.794" y="279.294" />
+      <point x="-32.474048140185914" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.library.model.Product" target="com.ecommerce.library.model.Category" relationship="TO_ONE">
+      <point x="87.5" y="7.9078160752033E-5" />
+      <point x="2271.812" y="1207.663" />
+      <point x="2271.812" y="867.0" />
+      <point x="1379.806" y="867.0" />
+      <point x="1379.806" y="896.254" />
+      <point x="87.49966346547308" y="-9.423957158105623E-5" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.ProductServiceImpl" target="com.ecommerce.library.utils.ImageUpload" relationship="TO_ONE">
+      <point x="-141.0" y="-0.0" />
+      <point x="-178.961" y="317.6297920236507" />
+      <point x="-178.961" y="967.7957560724132" />
+      <point x="-99.0" y="-0.0" />
+    </edge>
+    <edge source="com.ecommerce.library.model.ShoppingCart" target="com.ecommerce.library.model.CartItem" relationship="TO_MANY">
+      <point x="97.0" y="-0.0" />
+      <point x="2181.1198983427535" y="733.3489417340232" />
+      <point x="2181.1198983427535" y="550.1281480460337" />
+      <point x="2397.1198983427535" y="550.1281480460337" />
+      <point x="2397.1198983427535" y="1380.663" />
+      <point x="1578.0574701861094" y="1380.663" />
+      <point x="-0.0" y="70.5" />
+    </edge>
+    <edge source="com.ecommerce.library.model.Customer" target="com.ecommerce.library.model.ShoppingCart" relationship="TO_ONE">
+      <point x="111.4996847904024" y="-4.0696236931125895E-4" />
+      <point x="1120.591" y="911.438" />
+      <point x="1120.591" y="1017.0" />
+      <point x="1958.265" y="1017.0" />
+      <point x="17.393337568466904" y="70.5" />
+    </edge>
+    <edge source="com.ecommerce.library.model.ShoppingCart" target="com.ecommerce.library.model.Customer" relationship="TO_ONE">
+      <point x="32.393337568466904" y="70.5" />
+      <point x="1973.265" y="1350.663" />
+      <point x="795.911" y="1350.663" />
+      <point x="795.911" y="960.0" />
+      <point x="811.121" y="960.0" />
+      <point x="811.121" y="911.438" />
+      <point x="-111.5" y="-4.0696236931125895E-4" />
+    </edge>
+    <edge source="com.ecommerce.admin.controller.LoginController" target="com.ecommerce.library.service.impl.AdminServiceImpl" relationship="TO_ONE">
+      <point x="7.547002599915459" y="-37.5" />
+      <point x="2002.5071216659387" y="264.294" />
+      <point x="130.0" y="-26.529229112302346" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.CustomerServiceImpl" target="com.ecommerce.library.repository.RoleRepository" relationship="TO_ONE">
+      <point x="-151.0" y="-3.3717548738820824E-4" />
+      <point x="1125.0" y="112.639" />
+      <point x="1125.0" y="120.603" />
+      <point x="-154.461" y="120.603" />
+      <point x="-154.461" y="891.259" />
+      <point x="-80.5" y="5.107108756874368E-5" />
+    </edge>
+    <edge source="com.ecommerce.library.model.CartItem" target="com.ecommerce.library.model.ShoppingCart" relationship="TO_ONE">
+      <point x="-4.701861093963089E-4" y="-70.49962745610856" />
+      <point x="1578.057" y="1017.0" />
+      <point x="1958.265" y="1017.0" />
+      <point x="17.393337568466904" y="70.5" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.AdminServiceImpl" target="com.ecommerce.library.service.AdminService" relationship="REALIZATION">
+      <point x="-0.0" y="-37.5" />
+      <point x="962.9446202624996" y="231.83581987985377" />
+      <point x="-77.0" y="-0.0" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.CartController" target="com.ecommerce.library.service.CustomerService" relationship="TO_ONE">
+      <point x="-102.80600238970715" y="-48.5" />
+      <point x="1438.5" y="852.0" />
+      <point x="1394.806" y="852.0" />
+      <point x="1394.806" y="1212.25" />
+      <point x="-139.461" y="1212.25" />
+      <point x="-139.461" y="0.6680000000000001" />
+      <point x="-88.5" y="-1.8797229677680605E-5" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.AdminServiceImpl" target="com.ecommerce.library.repository.AdminRepository" relationship="TO_ONE">
+      <point x="15.555379737500516" y="37.49977088769765" />
+      <point x="978.5" y="482.0" />
+      <point x="2126.887" y="482.0" />
+      <point x="-7.387648520307266E-5" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.admin.config.AdminDetails" target="com.ecommerce.library.model.Admin" relationship="TO_ONE">
+      <point x="-0.0" y="26.5" />
+      <point x="1255.3907776153553" y="1395.663" />
+      <point x="2160.8121731149586" y="1395.663" />
+      <point x="-0.0" y="92.5" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.HomeController" target="com.ecommerce.library.service.ProductService" relationship="TO_ONE">
+      <point x="128.99999983495627" y="1.0979268120081542E-4" />
+      <point x="1793.877" y="775.182" />
+      <point x="1793.877" y="502.0" />
+      <point x="713.397" y="502.0" />
+      <point x="68.60769565001237" y="13.999837709241206" />
+    </edge>
+    <edge source="com.ecommerce.customer.controller.AuthController" target="com.ecommerce.library.service.CustomerService" relationship="TO_ONE">
+      <point x="142.40853783602097" y="37.5" />
+      <point x="1438.5" y="852.0" />
+      <point x="1394.806" y="852.0" />
+      <point x="1394.806" y="1212.25" />
+      <point x="-139.461" y="1212.25" />
+      <point x="-139.461" y="0.6680000000000001" />
+      <point x="-88.5" y="-1.8797229677680605E-5" />
+    </edge>
+    <edge source="com.ecommerce.library.model.Customer" target="com.ecommerce.library.model.Role" relationship="TO_MANY">
+      <point x="111.4996847904024" y="14.999593037630689" />
+      <point x="1105.591" y="926.438" />
+      <point x="1105.591" y="998.0" />
+      <point x="1379.806" y="998.0" />
+      <point x="1379.806" y="1157.25" />
+      <point x="61.0" y="-3.11213334043714E-4" />
+    </edge>
+    <edge source="com.ecommerce.customer.config.CustomerServiceConfig" target="com.ecommerce.library.repository.CustomerRepository" relationship="TO_ONE">
+      <point x="28.258841662046507" y="-26.5" />
+      <point x="1477.009" y="52.0" />
+      <point x="44.079" y="52.0" />
+      <point x="-83.17468334659799" y="-14.0" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.ProductServiceImpl" target="com.ecommerce.library.service.ProductService" relationship="REALIZATION">
+      <point x="141.0" y="-30.0" />
+      <point x="-82.0" y="11.141629732891886" />
+    </edge>
+    <edge source="com.ecommerce.library.model.Admin" target="com.ecommerce.library.model.Role" relationship="TO_MANY">
+      <point x="-93.5" y="79.00560701064" />
+      <point x="1677.057" y="1054.622" />
+      <point x="1677.057" y="998.0" />
+      <point x="1379.806" y="998.0" />
+      <point x="1379.806" y="1157.25" />
+      <point x="61.0" y="-3.11213334043714E-4" />
+    </edge>
+    <edge source="com.ecommerce.admin.controller.ProductController" target="com.ecommerce.library.service.ProductService" relationship="TO_ONE">
+      <point x="-2.729036316271305E-4" y="-37.5" />
+      <point x="4.039" y="502.0" />
+      <point x="713.397" y="502.0" />
+      <point x="68.60769565001237" y="13.999837709241206" />
+    </edge>
+    <edge source="com.ecommerce.library.dto.ProductDto" target="com.ecommerce.library.model.Category" relationship="TO_ONE">
+      <point x="1.0165724643229623E-4" y="125.4998519539663" />
+      <point x="2296.62" y="867.0" />
+      <point x="1379.806" y="867.0" />
+      <point x="1379.806" y="896.254" />
+      <point x="87.49966346547308" y="-9.423957158105623E-5" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.ShoppingCartServiceImpl" target="com.ecommerce.library.service.ShoppingCartService" relationship="REALIZATION">
+      <point x="147.5" y="-19.90965520670204" />
+      <point x="-104.5" y="-0.0" />
+    </edge>
+    <edge source="com.ecommerce.library.service.impl.CategoryServiceImpl" target="com.ecommerce.library.service.CategoryService" relationship="REALIZATION">
+      <point x="-104.0" y="-0.0" />
+      <point x="1609.268048140186" y="104.43494597509189" />
+      <point x="-0.0" y="14.0" />
+    </edge>
+    <edge source="com.ecommerce.customer.config.CustomerDetails" target="com.ecommerce.library.model.Customer" relationship="TO_ONE">
+      <point x="37.67324508386628" y="26.5" />
+      <point x="320.5" y="960.0" />
+      <point x="811.121" y="960.0" />
+      <point x="811.121" y="911.438" />
+      <point x="-111.5" y="-4.0696236931125895E-4" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="1176.5" y="620.0" />
+  <SelectedNodes>
+    <node>com.ecommerce.library.dto.AdminDto</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
