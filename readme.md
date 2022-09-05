@@ -12,6 +12,8 @@ As a user, you will be able to
 · Login
 · Add/remove a product to a cart
 · View a product in a category and as a sole product
+· N.B Payment Gateway Api has not been incorperated
+
 As an Admin, you will be able to
 · Signup
 · Login
@@ -20,3 +22,16 @@ Tools
 · Spring Boot MVC
 · Spring Security
 · Spring Validation
+· Template Engine: Thymeleaf
+· Spring Data JPA
+Implementation Overview
+· Code was implemented using spring boot framework
+· Code was implemented on the DRY Principle
+· Basic OOP and SOLID principles were used where necessary.
+· Various optimizations were applied where necessary (e.g., pagination).
+· Efficient SQL custom queries were used where needed.
+o Joins
+o Views
+· Basic Exception Handling was applied 
+· Database design was normalized, and entities have the necessary relationship mapping
+
